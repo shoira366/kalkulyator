@@ -3,7 +3,7 @@ const elInput = document.querySelector('#number');
 const elInputsecond = document.querySelector('#input');
 const elTitle = document.querySelector('#title');
 
-elTitle.textContent = 'Natija'
+elTitle.textContent = 'Результат'
 
 
 form.addEventListener('submit', function(e){
